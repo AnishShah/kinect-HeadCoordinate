@@ -121,7 +121,7 @@ namespace Head_Co_ordinate
                         string text = "Bot backward";
                         coobox2.Text = text;
                         myserial.Write("b");
-                    }else if(headPosition.Z == 1)
+                    }else
 		    {
 			string text = "Bot stop";
 			coobox2.Text = text;
