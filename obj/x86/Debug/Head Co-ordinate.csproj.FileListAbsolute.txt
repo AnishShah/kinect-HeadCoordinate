@@ -1,0 +1,25 @@
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\bin\Debug\Head Co-ordinate.exe
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\bin\Debug\Head Co-ordinate.pdb
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\MainWindow.baml
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\App.g.cs
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate_MarkupCompile.cache
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.g.resources
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head_Co_ordinate.Properties.Resources.resources
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.csproj.GenerateResource.Cache
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.exe
+C:\Users\Shubhu\documents\visual studio 2010\Projects\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.pdb
+E:\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.exe
+E:\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.pdb
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.exe
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.pdb
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\bin\Debug\Head Co-ordinate.exe
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\bin\Debug\Head Co-ordinate.pdb
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.csprojResolveAssemblyReference.cache
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\MainWindow.baml
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\MainWindow.g.cs
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\App.g.cs
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate_MarkupCompile.cache
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.g.resources
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head_Co_ordinate.Properties.Resources.resources
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Kinect Projects\Head Co-ordinate\Head Co-ordinate\obj\x86\Debug\Head Co-ordinate.csproj.GenerateResource.Cache

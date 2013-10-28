@@ -1,0 +1,9 @@
+﻿<Window x:Class="Head_Co_ordinate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Shubhankar's Kinect Head Tracker"  Loaded="Window_Loaded" Width="800" SizeToContent="Height" >
+    <StackPanel>
+        <TextBlock Name="coobox" Text="Head Co-Ordinate" HorizontalAlignment="Center" FontSize="50"></TextBlock>
+        <TextBlock Name="coobox2" Text="Directions" HorizontalAlignment="Center" FontSize="50"></TextBlock>
+    </StackPanel>
+</Window>
